@@ -1,0 +1,25 @@
+.navbar{
+    background:rgb(53, 58,64) !important;
+}
+.col-sm{
+display: flex;
+align-items: center;
+}
+.container{
+    border:1px solid grey;
+}
+.plus{
+    width: 33px;
+    border-radius: 130px;
+    background: rgb(53, 58,64)
+}
+.moin{
+    width: 33px;
+    border-radius: 130px;
+    background:rgb(53, 58,64);
+}
+.bag{
+    background: rgb(53, 58,64);
+    display: flex;
+justify-content: center;
+}
